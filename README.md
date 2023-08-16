@@ -1,4 +1,4 @@
 # ReachFood_TailwindCSS
 Reach food is a recipe website that uses tailwind css to create visually appealing recipe cards.
 
-https://github.com/abs110020/ReachFood_TailwindCSS/assets/5025282/f6e5a75c-9718-426e-8b97-945ecc0acb57
+<img width="1629" alt="ReachFood1" src="https://github.com/abs110020/ReachFood_TailwindCSS/assets/5025282/4b2623d4-7502-4f7a-a383-11d91f2311b9">
